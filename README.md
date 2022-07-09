@@ -32,14 +32,14 @@
 Estarei compartindo aqui a maior parte dos gráficos e Dashboards criados durante o excelente curso gratuito de Microsoft Power BI para Data Science. Onde não só focam em como aprender a usar a ferramenta, como também em como resolver problemas.
 
 ### Estudos de casos
-[x] Estudo de Caso 1 - Contruindo um Dashboard que represente os dados de vendas
-[x] Estudo de Caso 2 - Definindo um Dashboard para estrategias de vendas
-[ ] Estudo de Caso 3 - 
+- [x] Estudo de Caso 1 - Contruindo um Dashboard que represente os dados de vendas
+- [x] Estudo de Caso 2 - Definindo um Dashboard para estrategias de vendas
+- [ ] Estudo de Caso 3 - 
 
 ### Tarefas
-[x] Tarefa00 - Reproduzindo Dashboard de Vendas, Custo, Margem de lucro e KPI
-[x] Tarefa01 - Criando gráfico de total de Gastos por cliente
-[x] Tarefa02 - Criando gráfico total de gastos por sexo com ferramenta de IA no Power BI
-[x] Tarefa03 - Criando gráfico de cliente por setor
-[x] Tarefa04 - Criando dashboard de vendas por telefone no mês de março
-[ ] Tarefa05 -
+- [x] Tarefa00 - Reproduzindo Dashboard de Vendas, Custo, Margem de lucro e KPI
+- [x] Tarefa01 - Criando gráfico de total de Gastos por cliente
+- [x] Tarefa02 - Criando gráfico total de gastos por sexo com ferramenta de IA no Power BI
+- [x] Tarefa03 - Criando gráfico de cliente por setor
+- [x] Tarefa04 - Criando dashboard de vendas por telefone no mês de março
+- [ ] Tarefa05 -
