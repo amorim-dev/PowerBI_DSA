@@ -27,7 +27,6 @@ O curso é em português, online e gratuito fornecido pela  [Data Science Academ
 - Power Apps
 - Projeto Final - Data Lake, Dremio e Power BI para Análise de Vendas
 
-
 ---
 # Conteúdo
 
