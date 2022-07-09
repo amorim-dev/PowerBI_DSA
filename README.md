@@ -1,6 +1,6 @@
 # Microsoft Power BI para Data Science, Versão 2.0
 
-**Excelente curso, Recomendo!** O curso é em português, online e gratuito fornecido pela  [Data Science Academy](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science). 
+**_Excelente curso, Recomendo!_** O curso é em português, online e gratuito fornecido pela  [Data Science Academy](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science). 
 
 
 ### Temas abordados no curso: 
