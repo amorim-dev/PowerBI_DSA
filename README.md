@@ -31,7 +31,7 @@ O curso é em português, online e gratuito fornecido pela  [Data Science Academ
 ---
 # Conteúdo
 
-Estarei compartindo aqui a maior parte dos gráficos e Dashboards criados durante o excelente curso gratuito de Microsoft Power BI para Data Science. Onde não só focam em como aprender a usar a ferramenta, como também em como resolver problemas.
+Estarei compartindo a maior parte dos gráficos e dashboards criados durante o excelente curso gratuito de Microsoft Power BI para Data Science. Onde não só focam em como aprender a usar a ferramenta, como também em como resolver problemas.
 
 ### Estudo de caso:
 - [x] Estudo de Caso 1 - Contruindo um Dashboard que represente os dados de vendas
