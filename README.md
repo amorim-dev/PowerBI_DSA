@@ -1,6 +1,8 @@
 # Microsoft Power BI para Data Science, Versão 2.0
 
-**_Excelente curso, Recomendo!_** O curso é em português, online e gratuito fornecido pela  [Data Science Academy](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science). 
+**_Excelente curso, Recomendo!_** 
+
+O curso é em português, online e gratuito fornecido pela  [Data Science Academy](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science). 
 
 
 ### Temas abordados no curso: 
@@ -31,7 +33,7 @@
 
 Estarei compartindo aqui a maior parte dos gráficos e Dashboards criados durante o excelente curso gratuito de Microsoft Power BI para Data Science. Onde não só focam em como aprender a usar a ferramenta, como também em como resolver problemas.
 
-### Estudos de casos
+### Estudo de caso:
 - [x] Estudo de Caso 1 - Contruindo um Dashboard que represente os dados de vendas
 - [x] Estudo de Caso 2 - Definindo um Dashboard para estrategias de vendas
 - [ ] Estudo de Caso 3 - 
