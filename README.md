@@ -44,4 +44,5 @@ Estarei compartindo a maior parte dos gráficos e dashboards criados durante o e
 - [x] Tarefa02 - [Criando gráfico total de gastos por sexo com ferramenta de IA no Power BI](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa02_Cap05)
 - [x] Tarefa03 - [Criando gráfico de cliente por setor](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa03_Cap05)
 - [x] Tarefa04 - [Criando dashboard de vendas por telefone no mês de março](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa04_Cap05)
-- [ ] Tarefa05 -
+- [x] Tarefa05 - Dashboard de despesas da empresa
+- [ ] Tarefa06 -
