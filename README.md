@@ -28,19 +28,20 @@ O curso é em português, online e gratuito fornecido pela  [Data Science Academ
 - Projeto Final - Data Lake, Dremio e Power BI para Análise de Vendas
 
 ---
+
 # Conteúdo
 
 Estarei compartindo a maior parte dos gráficos e dashboards criados durante o excelente curso gratuito de Microsoft Power BI para Data Science. Onde não só focam em como aprender a usar a ferramenta, como também em como resolver problemas.
 
 ### Estudo de caso:
-- [x] Estudo de Caso 1 - Contruindo um Dashboard que represente os dados de vendas
-- [x] Estudo de Caso 2 - Definindo um Dashboard para estrategias de vendas
+- [x] Estudo de Caso 1 - [Contruindo um Dashboard que represente os dados de vendas](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso1)
+- [x] Estudo de Caso 2 - [Definindo um Dashboard para estrategias de vendas](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso2)
 - [ ] Estudo de Caso 3 - 
 
 ### Tarefas
-- [x] Tarefa00 - Reproduzindo Dashboard de Vendas, Custo, Margem de lucro e KPI
-- [x] Tarefa01 - Criando gráfico de total de Gastos por cliente
-- [x] Tarefa02 - Criando gráfico total de gastos por sexo com ferramenta de IA no Power BI
-- [x] Tarefa03 - Criando gráfico de cliente por setor
-- [x] Tarefa04 - Criando dashboard de vendas por telefone no mês de março
+- [x] Tarefa00 - [Reproduzindo Dashboard de Vendas, Custo, Margem de lucro e KPI](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa00_Cap04)
+- [x] Tarefa01 - [Criando gráfico de total de Gastos por cliente](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa01_Cap05)
+- [x] Tarefa02 - [Criando gráfico total de gastos por sexo com ferramenta de IA no Power BI](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa02_Cap05)
+- [x] Tarefa03 - [Criando gráfico de cliente por setor](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa03_Cap05)
+- [x] Tarefa04 - [Criando dashboard de vendas por telefone no mês de março](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa04_Cap05)
 - [ ] Tarefa05 -
