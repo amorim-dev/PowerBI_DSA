@@ -29,7 +29,7 @@ O curso é em português, online e gratuito fornecido pela  [Data Science Academ
 
 ---
 
-# Conteúdo
+# Conteúdo em github
 
 Estarei compartindo a maior parte dos gráficos e dashboards criados durante o excelente curso gratuito de Microsoft Power BI para Data Science. Onde não só focam em como aprender a usar a ferramenta, como também em como resolver problemas.
 
