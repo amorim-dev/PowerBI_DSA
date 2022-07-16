@@ -36,13 +36,13 @@ Estarei compartindo a maior parte dos gráficos e dashboards criados durante o e
 ### Estudo de caso:
 - [x] Estudo de Caso 1 - [Contruindo um Dashboard que represente os dados de vendas](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso1)
 - [x] Estudo de Caso 2 - [Definindo um Dashboard para estrategias de vendas](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso2)
-- [ ] Estudo de Caso 3 - 
+- [ ] Estudo de Caso 3 - Está dividido nas seguintes tarefas abaixo:
 
-### Tarefas
-- [x] Tarefa00 - [Reproduzindo Dashboard de Vendas, Custo, Margem de lucro e KPI](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa00_Cap04)
-- [x] Tarefa01 - [Criando gráfico de total de Gastos por cliente](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa01_Cap05)
-- [x] Tarefa02 - [Criando gráfico total de gastos por sexo com ferramenta de IA no Power BI](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa02_Cap05)
-- [x] Tarefa03 - [Criando gráfico de cliente por setor](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa03_Cap05)
-- [x] Tarefa04 - [Criando dashboard de vendas por telefone no mês de março](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa04_Cap05)
-- [x] Tarefa05 - [Dashboard de despesas da empresa](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Tarefas/Tarefa05_Cap05)
-- [ ] Tarefa06 -
+    - [x] Tarefa00 - [Reproduzindo Dashboard de Vendas, Custo, Margem de lucro e KPI](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa00_Cap04)
+    -  [x] Tarefa01 - [Criando gráfico de total de Gastos por cliente](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa01_Cap05)
+    - [x] Tarefa02 - [Criando gráfico total de gastos por sexo com ferramenta de IA no Power BI](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa02_Cap05)
+    - [x] Tarefa03 - [Criando gráfico de cliente por setor](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa03_Cap05)
+    - [x] Tarefa04 - [Criando dashboard de vendas por telefone no mês de março](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa04_Cap05)
+    - [x] Tarefa05 - [Dashboard de despesas da empresa](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa05_Cap05)
+    - [ ] Tarefa06 -
+    - [ ] Tarefa07 - [Dashboard de vendas no sudoeste](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa07_Cap05)
