@@ -33,7 +33,7 @@ O curso é em português, online e gratuito fornecido pela  [Data Science Academ
 
 Estarei compartindo a maior parte dos gráficos e dashboards criados durante o excelente curso gratuito de Microsoft Power BI para Data Science. Onde não só focam em como aprender a usar a ferramenta, como também em como resolver problemas.
 
-### Estudo de caso:
+### Estudos de caso:
 - [x] Estudo de Caso 1 - [Contruindo um Dashboard que represente os dados de vendas](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso1)
 - [x] Estudo de Caso 2 - [Definindo um Dashboard para estrategias de vendas](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso2)
 - [ ] Estudo de Caso 3 - Está dividido nas seguintes tarefas abaixo:
@@ -44,5 +44,5 @@ Estarei compartindo a maior parte dos gráficos e dashboards criados durante o e
     - [x] Tarefa03 - [Criando gráfico de cliente por setor](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa03_Cap05)
     - [x] Tarefa04 - [Criando dashboard de vendas por telefone no mês de março](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa04_Cap05)
     - [x] Tarefa05 - [Dashboard de despesas da empresa](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa05_Cap05)
-    - [ ] Tarefa06 -
-    - [ ] Tarefa07 - [Dashboard de vendas no sudoeste](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa07_Cap05)
+    - [x] Tarefa06 - [IMC](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa06_Cap05)
+    - [x] Tarefa07 - [Dashboard de vendas no sudoeste](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa07_Cap05)
