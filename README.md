@@ -44,5 +44,5 @@ Estarei compartindo a maior parte dos gráficos e dashboards criados durante o e
     - [x] Tarefa03 - [Criando gráfico de cliente por setor](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa03_Cap05)
     - [x] Tarefa04 - [Criando dashboard de vendas por telefone no mês de março](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa04_Cap05)
     - [x] Tarefa05 - [Dashboard de despesas da empresa](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa05_Cap05)
-    - [x] Tarefa06 - [IMC](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa06_Cap05)
+    - [x] Tarefa06 - [Criando gráfico de IMC por sexo](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa06_Cap05)
     - [x] Tarefa07 - [Dashboard de vendas no sudoeste](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa07_Cap05)
