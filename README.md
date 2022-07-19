@@ -36,7 +36,7 @@ Estarei compartindo a maior parte dos gráficos e dashboards criados durante o e
 ### Estudos de casos:
 - [x] Estudo de Caso 1 - [Contruindo um Dashboard que represente os dados de vendas](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso1)
 - [x] Estudo de Caso 2 - [Definindo um Dashboard para estrategias de vendas](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso2)
-- [x] Estudo de Caso 3 - Está dividido nas seguintes tarefas onde o objetivo nao é a criação de gráficos e dashboard, mas sim limpeza e tranformação dos dados:
+- [x] Estudo de Caso 3 - Está dividido nas seguintes tarefas onde o objetivo nao é a criação de gráficos e dashboards, mas sim limpeza e tranformação dos dados:
 
     - [x] Tarefa00 - [Reproduzindo Dashboard de Vendas, Custo, Margem de lucro e KPI](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa00_Cap04)
     -  [x] Tarefa01 - [Criando gráfico de total de Gastos por cliente](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa01_Cap05)
