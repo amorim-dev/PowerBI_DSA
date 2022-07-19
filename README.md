@@ -46,3 +46,7 @@ Estarei compartindo a maior parte dos gráficos e dashboards criados durante o e
     - [x] Tarefa05 - [Dashboard de despesas da empresa](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa05_Cap05)
     - [x] Tarefa06 - [Criando gráfico de IMC por sexo](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa06_Cap05)
     - [x] Tarefa07 - [Dashboard de vendas no sudoeste](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa07_Cap05)
+
+
+    ### Labs:
+    - [x] Lab01 - [Evolução e Previsão do Desemprego ao Longo do Tempo](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Labs/Lab01)
