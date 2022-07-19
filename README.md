@@ -48,5 +48,5 @@ Estarei compartindo a maior parte dos gráficos e dashboards criados durante o e
     - [x] Tarefa07 - [Dashboard de vendas no sudoeste](https://github.com/amorim-dev/PowerBI_DSA/tree/master/EstudosDeCasos/EstudoDeCaso3/Tarefa07_Cap05)
 
 
-    ### Labs:
-    - [x] Lab01 - [Evolução e Previsão do Desemprego ao Longo do Tempo](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Labs/Lab01)
+### Labs:
+- [x] Lab01 - [Evolução e Previsão do Desemprego ao Longo do Tempo](https://github.com/amorim-dev/PowerBI_DSA/tree/master/Labs/Lab01)
