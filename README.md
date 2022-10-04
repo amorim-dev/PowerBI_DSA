@@ -7,10 +7,10 @@ O curso é em português, online e gratuito fornecido pela  [Data Science Academ
 
 ### Temas abordados no curso: 
 
-- Primeiros Passos com Power BI Desktop
-- Business Intelligence no Power BI
-- Modelagem, Relacionamento e DAX
-- Limpeza, Transformação, Séries Temporais, Agregação e Filtros
+- Primeiros Passos com Power BI Desktop :heavy_check_mark
+- Business Intelligence no Power BI :heavy_check_mark
+- Modelagem, Relacionamento e DAX :heavy_check_mark
+- Limpeza, Transformação, Séries Temporais, Agregação e Filtros :heavy_check_mark
 - Gráficos e Mapas
 - Dashboards Interativos
 - Microsoft Power BI Mobile
